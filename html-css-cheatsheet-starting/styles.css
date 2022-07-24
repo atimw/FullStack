@@ -1,0 +1,27 @@
+body {
+	background-color: #000;
+	font-family: 'Ubuntu Mono', monospace;
+	color: #33ff00;
+	font-size: 12px;
+}
+
+header h1 {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+table th, table tr, table td {
+	min-width: 300px;
+}
+
+table tr {
+	border-bottom: 1px solid #fff;;
+}
+
+.usage {
+	color: orange;
+	font-family: 'Courier New', monospace;
+}
